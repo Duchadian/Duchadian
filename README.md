@@ -28,12 +28,12 @@
 ![](https://img.shields.io/badge/-Kubernetes-green?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-green?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Terraform-yellow?style=flat&logo=terraform)
-![](https://img.shields.io/badge/-Linux-green?style=flat-square&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-Linux-green?style=flat&logo=linux&logoColor=white)
 - Cloud:
 ![](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
 - Misc:
-![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Bash-yellow?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=git&logoColor=white)
 
 Legend:
 - ![](https://img.shields.io/badge/level-very%20experienced-brightgreen)
