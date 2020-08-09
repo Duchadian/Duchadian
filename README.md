@@ -5,8 +5,7 @@
 
 :office: Data Engineer at [A.S.R.][2] 
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
-:key: ![](https://img.shields.io/keybase/pgp/timvoets)
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" /> ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
 [<img align="left" alt="Tim Voets | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
