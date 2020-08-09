@@ -13,16 +13,6 @@
 
 ### Tech Stuff
 ---
-![](https://img.shields.io/badge/level-very%20experienced-brightgreen)
-
-![](https://img.shields.io/badge/level-experienced-green)
-
-![](https://img.shields.io/badge/level-somewhat%20experienced-yellow)
-
-![](https://img.shields.io/badge/level-rusty-red)
-
-![](https://img.shields.io/badge/level-learning-blue)
-
 - Languages: 
 ![](https://img.shields.io/badge/-Python-brightgreen?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Rust-blue?style=flat&logo=Rust&logoColor=white)
@@ -44,6 +34,13 @@
 - Misc:
 ![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-Bash-yellow?style=flat-square&logo=git&logoColor=white)
+
+Legend:
+- ![](https://img.shields.io/badge/level-very%20experienced-brightgreen)
+- ![](https://img.shields.io/badge/level-experienced-green)
+- ![](https://img.shields.io/badge/level-somewhat%20experienced-yellow)
+- ![](https://img.shields.io/badge/level-rusty-red)
+- ![](https://img.shields.io/badge/level-learning-blue)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
