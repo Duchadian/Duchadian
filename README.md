@@ -5,6 +5,8 @@
 
 :office: Data Engineer at [A.S.R.][2] 
 
+:seedling: Azure Cloud 
+
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" /> ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
@@ -13,6 +15,9 @@
 
 ### Tech Stuff
 ---
+Legend:
+<span style="color:brightgreen"> Experienced</span>
+
 - Languages: 
 ![](https://img.shields.io/badge/-Python-brightgreen?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Rust-blue?style=flat&logo=Rust&logoColor=white)
