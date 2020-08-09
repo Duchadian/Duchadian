@@ -13,11 +13,14 @@
 
 ### Tech Stuff
 ---
-Legend:
 ![](https://img.shields.io/badge/level-very%20experienced-brightgreen)
+
 ![](https://img.shields.io/badge/level-experienced-green)
+
 ![](https://img.shields.io/badge/level-somewhat%20experienced-yellow)
+
 ![](https://img.shields.io/badge/level-rusty-red)
+
 ![](https://img.shields.io/badge/level-learning-blue)
 
 - Languages: 
