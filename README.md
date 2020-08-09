@@ -2,7 +2,9 @@
 
 ### About me
 :house: in the Netherlands
+
 :office: as a Data Engineer at [A.S.R.][2] 
+
 :key: ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
