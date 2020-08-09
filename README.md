@@ -23,10 +23,12 @@
 ![](https://img.shields.io/badge/-Beats-green?style=flat&logo=beats&logoColor=white)
 ![](https://img.shields.io/badge/-Apache_Kafka-brightgreen?style=flat&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Spark-blue?style=flat&logo=apache-spark&logoColor=white)
+![](https://img.shields.io/badge/-Apache%20Airflow-blue?style=flat&logo=apache-airflow&logoColor=white)
 - Infrastructure:
 ![](https://img.shields.io/badge/-Kubernetes-green?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-green?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Terraform-yellow?style=flat&logo=terraform)
+![](https://img.shields.io/badge/-Linux-green?style=flat-square&logo=linux&logoColor=white)
 - Cloud:
 ![](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
 - Misc:
