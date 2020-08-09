@@ -1,10 +1,11 @@
 ### Hi, I'm Tim!
 
 ### About me
-:house: in the Netherlands
+:house: the Netherlands
 
-:office: as a Data Engineer at [A.S.R.][2] 
+:office: Data Engineer at [A.S.R.][2] 
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />
 :key: ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
