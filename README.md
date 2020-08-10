@@ -36,11 +36,11 @@
 ![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=git&logoColor=white)
 
 Legend:
-- ![](https://img.shields.io/badge/level-very%20experienced-brightgreen)
-- ![](https://img.shields.io/badge/level-experienced-green)
-- ![](https://img.shields.io/badge/level-somewhat%20experienced-yellow)
-- ![](https://img.shields.io/badge/level-rusty-red)
-- ![](https://img.shields.io/badge/level-learning-blue)
+- ![](https://img.shields.io/badge/-very%20experienced-brightgreen)
+- ![](https://img.shields.io/badge/-experienced-green)
+- ![](https://img.shields.io/badge/-somewhat%20experienced-yellow)
+- ![](https://img.shields.io/badge/-rusty-red)
+- ![](https://img.shields.io/badge/-learning-blue)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
