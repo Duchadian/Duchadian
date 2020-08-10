@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
 - Misc:
 ![](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=bash&logoColor=white)
 
 Legend:
 - ![](https://img.shields.io/badge/-very%20experienced-brightgreen)
