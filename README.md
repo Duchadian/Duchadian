@@ -8,11 +8,11 @@
 <img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" /> ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
-[<img align="left" alt="Tim Voets | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
+[<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
 <br />
 
 ### My certifications
-[<img align="left" alt="Tim Voets | YourAcclaim" width="22px" src="https://cdn.youracclaim.com/assets/structure/logo-9cdb7df793567ed828676e986d492cf92dfcfba90a1f36593e0a2f3140d4cb18.svg" />][3]
+[<img align="left" alt="Tim Voets | YourAcclaim" width="24px" src="https://cdn.youracclaim.com/assets/structure/logo-9cdb7df793567ed828676e986d492cf92dfcfba90a1f36593e0a2f3140d4cb18.svg" />][3]
 <br />
 
 ### Tech Stuff
