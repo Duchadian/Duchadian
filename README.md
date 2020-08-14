@@ -11,6 +11,10 @@
 [<img align="left" alt="Tim Voets | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
 <br />
 
+### My certifications
+[<img align="left" alt="Tim Voets | YourAcclaim" width="22px" src="https://cdn.youracclaim.com/assets/structure/logo-9cdb7df793567ed828676e986d492cf92dfcfba90a1f36593e0a2f3140d4cb18.svg" />][1]
+<br />
+
 ### Tech Stuff
 ---
 - Languages: 
@@ -46,3 +50,4 @@ Legend:
 
 [1]: https://www.linkedin.com/in/tim-voets/
 [2]: https://asr.nl
+[3]: 
