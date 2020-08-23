@@ -16,6 +16,7 @@
 - Languages: 
 ![](https://img.shields.io/badge/-Python-brightgreen?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Rust-blue?style=flat&logo=Rust&logoColor=white)
+![](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
 - Data Tools: 
 ![](https://img.shields.io/badge/-ElasticSearch-green?style=flat&logo=elasticsearch&logoColor=white)
