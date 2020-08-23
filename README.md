@@ -1,14 +1,18 @@
 ### Hi, I'm Tim!
 
 ### About me
-:house: in the Netherlands
+:house: the Netherlands
 
-:office: as a Data Engineer at [A.S.R.][2] 
+:office: Data Engineer at [A.S.R.][2] 
 
-:key: ![](https://img.shields.io/keybase/pgp/timvoets)
+<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" /> ![](https://img.shields.io/keybase/pgp/timvoets)
 
 ### Reach out to me
-[<img align="left" alt="Tim Voets | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
+[<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
+<br />
+
+### My certifications
+[<img align="left" alt="Tim Voets | YourAcclaim" width="24px" src="https://cdn.youracclaim.com/assets/structure/logo-9cdb7df793567ed828676e986d492cf92dfcfba90a1f36593e0a2f3140d4cb18.svg" />][3]
 <br />
 
 ### Tech Stuff
@@ -29,14 +33,22 @@
 ![](https://img.shields.io/badge/-Kubernetes-green?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-green?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Terraform-yellow?style=flat&logo=terraform)
-![](https://img.shields.io/badge/-Linux-green?style=flat-square&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-Linux-green?style=flat&logo=linux&logoColor=white)
 - Cloud:
-![](https://img.shields.io/badge/Microsoft%20Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
 - Misc:
-![](https://img.shields.io/badge/-Git-yellow?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Bash-yellow?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=linux&logoColor=white)
+
+Legend:
+- ![](https://img.shields.io/badge/-very%20experienced-brightgreen)
+- ![](https://img.shields.io/badge/-experienced-green)
+- ![](https://img.shields.io/badge/-somewhat%20experienced-yellow)
+- ![](https://img.shields.io/badge/-rusty-red)
+- ![](https://img.shields.io/badge/-learning-blue)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
 [1]: https://www.linkedin.com/in/tim-voets/
 [2]: https://asr.nl
+[3]: https://www.youracclaim.com/users/tim-voets
