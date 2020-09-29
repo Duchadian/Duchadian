@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/-Beats-green?style=flat&logo=beats&logoColor=white)
 ![](https://img.shields.io/badge/-Apache_Kafka-brightgreen?style=flat&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/-Apache%20Spark-blue?style=flat&logo=apache-spark&logoColor=white)
-![](https://img.shields.io/badge/-Apache%20Airflow-blue?style=flat&logo=apache-airflow&logoColor=white)
+![](https://img.shields.io/badge/-Apache%20Airflow-yellow?style=flat&logo=apache-airflow&logoColor=white)
 - Infrastructure:
 ![](https://img.shields.io/badge/-Kubernetes-green?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-green?style=flat&logo=docker&logoColor=white)
@@ -42,8 +42,8 @@ Legend:
 - ![](https://img.shields.io/badge/-very%20experienced-brightgreen)
 - ![](https://img.shields.io/badge/-experienced-green)
 - ![](https://img.shields.io/badge/-somewhat%20experienced-yellow)
-- ![](https://img.shields.io/badge/-rusty-red)
 - ![](https://img.shields.io/badge/-learning-blue)
+- ![](https://img.shields.io/badge/-rusty-red)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
