@@ -6,7 +6,7 @@
 :office: Data Engineer at [A.S.R.][2] 
 
 ### Reach out to me
-[<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
+[<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://www.iconsdb.com/icons/preview/royal-azure-blue/linkedin-6-xxl.png" />][1]
 <br />
 
 
