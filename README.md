@@ -3,7 +3,7 @@
 ### About me
 :house: the Netherlands
 
-:office: Data Engineer at [A.S.R.][2] 
+:office: Data Engineer at [Dataworkz][2] 
 
 ### Reach out to me
 [<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://www.iconsdb.com/icons/preview/royal-azure-blue/linkedin-6-xxl.png" />][1]
@@ -55,4 +55,4 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
 [1]: https://www.linkedin.com/in/tim-voets/
-[2]: https://asr.nl
+[2]: https://dataworkz.nl
