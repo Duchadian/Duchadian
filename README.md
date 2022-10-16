@@ -1,6 +1,6 @@
 ### Hi, I'm Tim!
 
-### About me
+### :mag:
 :house: the Netherlands
 :office: Data Engineer at [Dataworkz][1]
 
@@ -14,7 +14,7 @@
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Learning
+### :seedling:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
