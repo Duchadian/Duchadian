@@ -2,57 +2,21 @@
 
 ### About me
 :house: the Netherlands
+:office: Data Engineer at [Dataworkz][1]
 
-:office: Data Engineer at [Dataworkz][2] 
+### :wrench::hammer::but_and_bolt:
 
-### Reach out to me
-[<img align="left" alt="Tim Voets | LinkedIn" width="24px" src="https://www.iconsdb.com/icons/preview/royal-azure-blue/linkedin-6-xxl.png" />][1]
-<br />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-### Tech Stuff
----
-![](https://img.shields.io/badge/-very%20experienced-brightgreen)
-![](https://img.shields.io/badge/-experienced-green)
-![](https://img.shields.io/badge/-somewhat%20experienced-yellow)
-![](https://img.shields.io/badge/-learning-blue)
-![](https://img.shields.io/badge/-rusty-red)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### Languages: 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![](https://img.shields.io/badge/-Python-brightgreen?style=flat&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/-Scala-blue?style=flat&logo=Scala&logoColor=white)
-![](https://img.shields.io/badge/-Go-blue?style=flat&logo=Go&logoColor=white)
-![](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-
-#### Data Tools: 
-
-![](https://img.shields.io/badge/-ElasticSearch-green?style=flat&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/-Logstash-brightgreen?style=flat&logo=logstash&logoColor=white)
-![](https://img.shields.io/badge/-Beats-green?style=flat&logo=beats&logoColor=white)
-![](https://img.shields.io/badge/-Apache_Kafka-brightgreen?style=flat&logo=apache-kafka&logoColor=white)
-![](https://img.shields.io/badge/-Apache%20Spark-blue?style=flat&logo=apache-spark&logoColor=white)
-![](https://img.shields.io/badge/-Apache%20Airflow-yellow?style=flat&logo=apache-airflow&logoColor=white)
-
-#### Infrastructure:
-
-![](https://img.shields.io/badge/-Kubernetes-green?style=flat&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/-Docker-green?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/-Terraform-yellow?style=flat&logo=terraform)
-![](https://img.shields.io/badge/-Linux-green?style=flat&logo=linux&logoColor=white)
-
-#### Cloud:
-
-![](https://img.shields.io/badge/Azure-yellow?style=flat&logo=microsoft-azure&logoColor=white)
-
-
-#### Misc:
-
-![](https://img.shields.io/badge/-Git-yellow?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-Bash-yellow?style=flat&logo=linux&logoColor=white)
-
+### Learning
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Duchadian&hide=stars)
 
-[1]: https://www.linkedin.com/in/tim-voets/
-[2]: https://dataworkz.nl
+[1]: https://dataworkz.nl
